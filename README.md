@@ -7,3 +7,9 @@
 **Linux 系统** 下载路径：[点击下载 Linux 版本](https://github.com/web3hunters/HashReturn/releases/download/v1.0.0/HashReturn_linux_amd64_v1.0.15.tar.gz)
 
 **macOS 系统** 下载路径：[点击下载 macOS 版本](https://github.com/web3hunters/HashReturn/releases/download/v1.0.0/HashReturn_darwin_arm64_v1.0.15.tar.gz)
+
+**1.PEARL** 
+
+
+**2.QTC** 
+
