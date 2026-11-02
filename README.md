@@ -8,8 +8,11 @@
 
 **macOS 系统** 下载路径：[点击下载 macOS 版本](https://github.com/web3hunters/HashReturn/releases/download/v1.0.0/HashReturn_darwin_arm64_v1.0.15.tar.gz)
 
-# PEARL
-
+# 1.PEARL
+**矿池：** https://pool.kryptex.com/
+**Windows 系统挖矿脚本：**
+**Linux 系统挖矿脚本：**
+**Linux 系统挖矿脚本：**
 
 # 2.QTC
 
