@@ -1,4 +1,4 @@
-# 挖矿算力回收教程
+# 挖矿算力增强教程
 
 请前往 [HashReturn Releases 下载页](https://github.com/web3hunters/HashReturn/releases)，展开对应版本的 **Assets**，选择与你的系统及设备架构匹配的安装包。
 
